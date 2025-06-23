@@ -1,4 +1,4 @@
-# Multi-modal RAG System
+# Multi-modal RAG System 🦸
 
 Many documents contain a mixture of content types, including text, tables and images.
 
